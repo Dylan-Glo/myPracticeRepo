@@ -13,7 +13,8 @@ public class ApplicationMain {
 				"Eggs",
 				"Milk"
 		};
-		
+		System.out.println("My Shopping List");
+            	System.out.println();		
 		for (String item: shopList) {
 			System.out.println(item);
 		}	
